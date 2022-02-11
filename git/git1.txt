@@ -1,4 +1,5 @@
 if A=10
 B=20
 THEN PRINT {A+B}
-
+ print{A-B}
+ `
